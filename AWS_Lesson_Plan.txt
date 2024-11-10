@@ -1,0 +1,59 @@
+ Introduction to AWS
+Week 1: Introduction to Cloud Computing and AWS
+Lesson 1.1: What is Cloud Computing?
+Definition and benefits
+Types of cloud services (IaaS, PaaS, SaaS)
+Lesson 1.2: Overview of AWS
+History and evolution of AWS
+AWS Global Infrastructure (Regions and Availability Zones)
+AWS Management Console
+Week 2: Core AWS Services
+Lesson 2.1: Compute Services
+Amazon EC2: Instances, AMIs, and key pairs
+Elastic Load Balancing (ELB)
+Auto Scaling
+Lesson 2.2: Storage Services
+Amazon S3: Buckets, objects, and storage classes
+Amazon EBS: Volumes and snapshots
+Amazon Glacier
+Week 3: Networking and Content Delivery
+Lesson 3.1: Networking Basics
+Virtual Private Cloud (VPC)
+Subnets, route tables, and internet gateways
+Lesson 3.2: Content Delivery
+Amazon CloudFront
+AWS Global Accelerator
+Week 4: Database Services
+Lesson 4.1: Introduction to AWS Databases
+Amazon RDS: Instances, backups, and read replicas
+Amazon DynamoDB: Tables, items, and attributes
+Lesson 4.2: Data Warehousing
+Amazon Redshift
+Week 5: Security and Identity Management
+Lesson 5.1: AWS Security Basics
+Shared Responsibility Model
+AWS Identity and Access Management (IAM)
+Lesson 5.2: Monitoring and Compliance
+AWS CloudTrail
+AWS Config
+AWS Trusted Advisor
+Week 6: Deployment and Management
+Lesson 6.1: Infrastructure as Code
+AWS CloudFormation
+AWS Elastic Beanstalk
+Lesson 6.2: Management Tools
+AWS CloudWatch
+AWS Systems Manager
+Week 7: Cost Management and Optimization
+Lesson 7.1: AWS Pricing Models
+On-demand, reserved, and spot instances
+AWS Free Tier
+Lesson 7.2: Cost Management Tools
+AWS Cost Explorer
+AWS Budgets
+Week 8: Final Project and Review
+Lesson 8.1: Capstone Project
+Design and deploy a simple web application using AWS services
+Lesson 8.2: Course Review and Q&A
+Recap of key concepts
+Q&A session
